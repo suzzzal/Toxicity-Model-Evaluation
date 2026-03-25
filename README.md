@@ -15,6 +15,9 @@ This repository is designed for evaluating various AI models and APIs on toxicit
 
 ## Benchmark Results
 
+![Screenshot](./Screenshot%202026-03-25%20223846.png)
+
+
 | Model | Accuracy (%) | Latency (ms) | False Positives (%) |
 | :--- | :--- | :--- | :--- |
 | **OpenAI Moderation** | 92 | 81 ms (Score: 79/100) | 9% (Score: 55/100) |
