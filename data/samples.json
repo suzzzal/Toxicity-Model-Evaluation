@@ -1,0 +1,42 @@
+[
+  {
+    "text": "Hello! How are you doing today?",
+    "label": 0
+  },
+  {
+    "text": "You are stupid and I hate you.",
+    "label": 1
+  },
+  {
+    "text": "The weather is really nice, we should go outside.",
+    "label": 0
+  },
+  {
+    "text": "Get out of here you absolute idiot!",
+    "label": 1
+  },
+  {
+    "text": "I strongly disagree with your political opinion.",
+    "label": 0
+  },
+  {
+    "text": "You're a jerk and nobody likes you.",
+    "label": 1
+  },
+  {
+    "text": "That was a really bad movie, the plot didn't make sense.",
+    "label": 0
+  },
+  {
+    "text": "Shut your ugly mouth.",
+    "label": 1
+  },
+  {
+    "text": "Is it possible to optimize this SQL query?",
+    "label": 0
+  },
+  {
+    "text": "Kill yourself loser.",
+    "label": 1
+  }
+]

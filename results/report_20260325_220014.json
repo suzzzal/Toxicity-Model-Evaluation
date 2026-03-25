@@ -1,0 +1,62 @@
+[
+    {
+        "model": "OpenAI Moderation",
+        "metrics": {
+            "acc": 92,
+            "lat": 224,
+            "lat_s": 79,
+            "fp": 9,
+            "fp_s": 55
+        }
+    },
+    {
+        "model": "Gemini Safety",
+        "metrics": {
+            "acc": 89,
+            "lat": 301,
+            "lat_s": 25,
+            "fp": 13,
+            "fp_s": 35
+        }
+    },
+    {
+        "model": "Azure AI Content Safety",
+        "metrics": {
+            "acc": 91,
+            "lat": 199,
+            "lat_s": 50,
+            "fp": 10,
+            "fp_s": 50
+        }
+    },
+    {
+        "model": "AWS Comprehend",
+        "metrics": {
+            "acc": 85,
+            "lat": 350,
+            "lat_s": 13,
+            "fp": 16,
+            "fp_s": 20
+        }
+    },
+    {
+        "model": "Perspective API",
+        "metrics": {
+            "acc": 88,
+            "lat": 149,
+            "lat_s": 63,
+            "fp": 12,
+            "fp_s": 40
+        }
+    },
+    {
+        "model": "Detoxify",
+        "metrics": {
+            "acc": 82,
+            "lat": 76,
+            "lat_s": 81,
+            "fp": 17,
+            "fp_s": 15
+        }
+    }
+]
