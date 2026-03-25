@@ -2,6 +2,10 @@
 
 Basic framework for evaluating and comparing how well different toxicity detection models perform based on real-world metrics.
 
+## How I got access to these models
+
+OpenAI Moderation API is free of cost, while other provide free tier for some duration - using that for conduct this I conducted this evaluation.
+
 ## Overview
 This repository is designed for evaluating various AI models and APIs on toxicity detection tasks. Each model receives the same dataset of text samples and outputs a classification (clean vs. toxic). The evaluation runner validates outputs against ground truth labels and emits a comprehensive performance table scoring accuracy, latency, and false positive rates.
 
