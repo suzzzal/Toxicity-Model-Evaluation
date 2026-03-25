@@ -117,5 +117,5 @@ toxicity_evaluation_toolkit/
 ## Citation
 If you use this project in research or a prototype, please cite:
 
-[Sujal], "Toxicity Model Evaluation Toolkit", 2026.
+[suzzal], "Toxicity Model Evaluation Toolkit", 2026.
 For improved reproducibility, include the dataset and exact model versions you evaluated.
