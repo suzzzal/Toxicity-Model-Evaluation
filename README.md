@@ -1,6 +1,6 @@
 # Toxicity Model Evaluation Toolkit
 
-Basic framework for evaluating and comparing how well different toxicity detection models perform based on real-world metrics.
+Basic framework for evaluating and comparing how well different toxicity detection models perform based on Latency, Accuracy and False Positives.
 
 ## How I got access to these models
 
